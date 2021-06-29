@@ -5,7 +5,7 @@
             <i v-if="!collapse" class="el-icon-s-fold"></i>
             <i v-else class="el-icon-s-unfold"></i>
         </div>
-        <div class="logo">律所会见管理端</div>
+        <div class="logo">传成后台管理端</div>
         <div class="header-right">
             <div class="header-user-con">
                 <!-- 全屏显示 -->
